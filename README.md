@@ -24,8 +24,8 @@
 
 `Full-Stack Development` · `DevOps` · `Infrastructure` · `Self-Hosting` · `System Design` · `Developer Tools` · `AI Agents` · `Automation`
 
-### 🐍 Contributions
+### 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MyNameIsBBB/MyNameIsBBB/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://streak-stats.demolab.com?user=MyNameIsBBB&theme=tokyonight&hide_border=true" />
 </p>
