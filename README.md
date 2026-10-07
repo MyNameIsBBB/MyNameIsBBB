@@ -1,4 +1,4 @@
-# Hi 👋, I'm Best
+<h1 align="center">Hi 👋, I'm Best</h1>
 
 ### A Full-Stack Developer who loves building products, deploying systems, and sometimes breaking production.
 
